@@ -81,12 +81,21 @@
       }
     },
     {
+      "identity" : "opencombine",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/OpenCombine/OpenCombine.git",
+      "state" : {
+        "revision" : "8576f0d579b27020beccbccc3ea6844f3ddfc2c2",
+        "version" : "0.14.0"
+      }
+    },
+    {
       "identity" : "openssl-swift",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/gematik/OpenSSL-Swift",
       "state" : {
-        "revision" : "705ace318cb2ce900844eda504d1eb744073e298",
-        "version" : "4.6.1"
+        "revision" : "093ea307eb36404d989f61d526c8ff204135e507",
+        "version" : "4.6.2"
       }
     },
     {
